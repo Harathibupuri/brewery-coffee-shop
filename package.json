@@ -1,0 +1,14 @@
+{
+  "name": "brewery-coffee-shop",
+  "version": "1.0.0",
+  "description": "A simple command line coffee shop POS app written in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+     "build": "tsc",
+    "start": "node dist/app.js"
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
